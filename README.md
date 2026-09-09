@@ -10,7 +10,7 @@ Useful as a lightweight `/whoami` endpoint for debugging VPNs, proxies, CDN rout
 - JSON and plain-text output
 - Designed for Cloudflare Snippets / Workers runtime
 
-> **Official repository:** `https://github.com/xytom/cf-whoami-snippet`
+> **Official repository:** `https://github.com/xyTom/cf-whoami-snippet`
 >
 > This is the original upstream repository for **Cloudflare WhoAmI**. If you redistribute or modify substantial portions of this project, please preserve the copyright and license notices required by the MIT License.
 
@@ -129,7 +129,7 @@ Responses include `Cache-Control: no-store`.
 The canonical upstream source is:
 
 ```text
-https://github.com/xytom/cf-whoami-snippet
+https://github.com/xyTom/cf-whoami-snippet
 ```
 
 The public Git history, signed/verified commits where available, tags, and GitHub Releases form the project's publication timeline. See [`NOTICE`](./NOTICE) for attribution information.
@@ -148,4 +148,4 @@ For security-related reports, see [`SECURITY.md`](./SECURITY.md).
 
 Licensed under the **MIT License**. See [`LICENSE`](./LICENSE).
 
-Copyright (c) 2026 YOUR_GITHUB_USERNAME.
+Copyright (c) 2026 xytom.
