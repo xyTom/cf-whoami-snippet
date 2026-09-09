@@ -30,5 +30,5 @@ Please do not submit code copied from another project unless its license is comp
 The canonical upstream repository is:
 
 ```text
-https://github.com/YOUR_GITHUB_USERNAME/cf-whoami
+https://github.com/xytom/cf-whoami
 ```

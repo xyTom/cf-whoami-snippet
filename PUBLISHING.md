@@ -18,7 +18,7 @@ Recommended first release:
 - Title: v0.1.0 - Initial release
 
 Before publishing:
-1. Replace every occurrence of YOUR_GITHUB_USERNAME.
+1. Verify every documentation reference uses the `xytom` GitHub username.
 2. Verify the canonical repository URL.
 3. Commit the files to Git.
 4. Prefer a signed or GitHub-verified initial commit/tag when convenient.

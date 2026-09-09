@@ -148,4 +148,4 @@ For security-related reports, see [`SECURITY.md`](./SECURITY.md).
 
 Licensed under the **MIT License**. See [`LICENSE`](./LICENSE).
 
-Copyright (c) 2026 YOUR_GITHUB_USERNAME.
+Copyright (c) 2026 xytom.

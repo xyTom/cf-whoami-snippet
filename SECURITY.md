@@ -7,7 +7,7 @@ Please avoid publishing a security issue before the maintainer has had a reasona
 For now, use GitHub's **private vulnerability reporting** feature on the canonical repository when available:
 
 ```text
-https://github.com/YOUR_GITHUB_USERNAME/cf-whoami
+https://github.com/xytom/cf-whoami
 ```
 
 If private reporting is not enabled, open a minimal issue asking for a private contact channel without including exploit details.
